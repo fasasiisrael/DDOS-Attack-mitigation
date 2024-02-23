@@ -46,6 +46,3 @@ Replace `http://localhost:3000` with the appropriate URL if your server is runni
 
 You can customize the DDoS protection logic and configuration by modifying the code in `src/controllers/ddosController.js` and `src/services/trafficBlockingService.js`.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
